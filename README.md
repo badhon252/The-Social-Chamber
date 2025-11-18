@@ -90,30 +90,6 @@ We prioritize safety and cleanliness, ensuring each room is secure, well-maintai
 
 ---
 
-## 📂 **Project Structure (Simplified)**
-
-```
-/
-├── app/
-│   ├── (pages)
-│   ├── components/
-│   ├── lib/
-│   ├── hooks/
-│   ├── store/
-│   ├── styles/
-│   └── utils/
-├── public/
-├── server/
-│   ├── controllers/
-│   ├── routes/
-│   └── models/
-├── package.json
-├── README.md
-└── tsconfig.json
-```
-
----
-
 ## ⚙️ **Installation & Setup**
 
 ### **1. Clone the Repository**
